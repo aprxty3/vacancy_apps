@@ -62,10 +62,10 @@ flutter:
   fonts:
     - family: Staatliches
       fonts:
-        - asset: fonts/Staatliches-Regular.ttf
+        - asset: fonts/staatliches/staatlichesregular.ttf
     - family: Oxygen
       fonts:
-        - asset: fonts/Oxygen-Regular.ttf
+        - asset: fonts/oxygen/oxygenregular.ttf
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
